@@ -1,4 +1,4 @@
-# Welcome to GUVI - WEB TASK
+# Welcome to GUVI - WEB DEVELOPMENT INTERN PROJECT
 
 
 This web application was created according to the software requirements given in the Problem Statement on GUVI - Intern for web developer role.
